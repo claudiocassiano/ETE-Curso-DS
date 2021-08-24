@@ -15,6 +15,4 @@ while i < len(nomes):
     i += 1
 
 
-print('João')
-
 
