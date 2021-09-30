@@ -1,12 +1,9 @@
 
 a = int(input('Um número: '))
 b = int(input('Outro número: '))
-
 #resto a = a % 2 primeiro IF
-
 resto_a = a % 2
 restO_b = b % 2
-
 #Primeiro IF
 #if resto == 0:
 #    print('O número {} é par!')
